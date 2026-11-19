@@ -1,0 +1,3 @@
+# Membership exports and generated member SQL contain members' names: never commit them
+*.csv
+members_load*.sql
